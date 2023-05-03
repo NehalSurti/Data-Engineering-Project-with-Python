@@ -1,1 +1,1 @@
-# Data-Engineering-Project-with-Python
+Designed and deployed a data model to a database using Python. I utilized the pandas package to read and manipulate data, and created a custom function to perform repetitive tasks such as dropping and creating tables. I also connected to a Postgres database, created a new database, and inserted data into it to verify that the model was working correctly. Overall, this project helped me gain a deeper understanding of data modeling, database design, and valuable experience in using Python and Postgres to create and deploy data models.
